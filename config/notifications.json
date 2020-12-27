@@ -1,0 +1,29 @@
+{
+  "notifications": [
+    {
+      "string": "Wiley completed a task for Hawaii",
+      "image": "https://wileybui.com/images/0.jpg",
+      "date": "April 5"
+    },
+    {
+      "string": "Romo completed a task for Hawaii",
+      "image": "https://canvas.umn.edu/images/thumbnails/8246831/aiRZVRrOT2FWAy3zM6hIEXjaVYLCnOEdw2EPUpSj",
+      "date": "April 4"
+    },
+    {
+      "string": "Governess added you to trip called Australia",
+      "image": "https://canvas.umn.edu/images/thumbnails/10752033/N6BARbwtmsunPDnFl36DuiYgEdjbw6oEseC7J6Iv",
+      "date": "April 2"
+    },
+    {
+      "string": "Lee completed a task for France",
+      "image": "https://canvas.umn.edu/images/thumbnails/7677159/3NFjcppoe3lEWneMupc0VNiOPOzTuwADtHSv5LFQ",
+      "date": "April 1"
+    },
+    {
+      "string": "Shirui completed a task for France",
+      "image": "https://canvas.umn.edu/images/messages/avatar-50.png",
+      "date": "March 27"
+    }
+  ]
+}

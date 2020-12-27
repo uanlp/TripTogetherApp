@@ -1,0 +1,86 @@
+{
+  "defaultPlaces": [
+    {
+      "tripName": "France",
+      "isAdmin": true,
+      "image": "http://icons.iconarchive.com/icons/custom-icon-design/2014-world-cup-flags/128/France-icon.png",
+      "members": {
+        "Governess": "https://canvas.umn.edu/images/thumbnails/10752033/N6BARbwtmsunPDnFl36DuiYgEdjbw6oEseC7J6Iv",
+        "Shirui": "https://canvas.umn.edu/images/messages/avatar-50.png",
+        "Wiley": "https://wileybui.com/images/0.jpg"
+      },
+      "tasks": [
+        {
+          "taskNumber": 1,
+          "taskName": "Get Tickets",
+          "taskDate": "4/2/20",
+          "isDone": true
+        },
+        {
+          "taskNumber": 2,
+          "taskName": "Pack food",
+          "taskDate": "4/3/20",
+          "isDone": false
+        }
+      ]
+    },
+    {
+      "tripName": "Hawaii",
+      "isAdmin": true,
+      "image": "https://www.hawaiianairlines.com/favicon.ico",
+      "members": {
+        "Wiley": "https://wileybui.com/images/0.jpg",
+        "Braeden": "https://canvas.umn.edu/images/thumbnails/10857251/0FH7W9n5nLlUi0DVrcYtMjcGRlK5AcOePd3Qi8CP",
+        "Governess": "https://canvas.umn.edu/images/thumbnails/10752033/N6BARbwtmsunPDnFl36DuiYgEdjbw6oEseC7J6Iv",
+        "Shirui": "https://canvas.umn.edu/images/messages/avatar-50.png",
+        "Lee": "https://canvas.umn.edu/images/thumbnails/7677159/3NFjcppoe3lEWneMupc0VNiOPOzTuwADtHSv5LFQ",
+        "Romo": "https://canvas.umn.edu/images/thumbnails/8246831/aiRZVRrOT2FWAy3zM6hIEXjaVYLCnOEdw2EPUpSj"
+      },
+      "tasks": [
+        {
+          "taskNumber": 1,
+          "taskName": "Get Tickets",
+          "taskDate": "4/2/20",
+          "isDone": true
+        },
+        {
+          "taskNumber": 2,
+          "taskName": "Pack food",
+          "taskDate": "4/3/20",
+          "isDone": false
+        },
+        {
+          "taskNumber": 3,
+          "taskName": "Get Hotel",
+          "taskDate": "4/10/20",
+          "isDone": false
+        }
+      ]
+    },
+    {
+      "tripName": "Australia",
+      "isAdmin": false,
+
+      "image": "http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/256/Australia-icon.png",
+      "members": {
+        "Lee": "https://canvas.umn.edu/images/thumbnails/7677159/3NFjcppoe3lEWneMupc0VNiOPOzTuwADtHSv5LFQ",
+        "Romo": "https://canvas.umn.edu/images/thumbnails/8246831/aiRZVRrOT2FWAy3zM6hIEXjaVYLCnOEdw2EPUpSj",
+        "Braeden": "https://canvas.umn.edu/images/thumbnails/10857251/0FH7W9n5nLlUi0DVrcYtMjcGRlK5AcOePd3Qi8CP"
+      },
+      "tasks": [
+        {
+          "taskNumber": 1,
+          "taskName": "Get Tickets",
+          "taskDate": "4/2/20",
+          "isDone": true
+        },
+        {
+          "taskNumber": 2,
+          "taskName": "Pack food",
+          "taskDate": "4/3/20",
+          "isDone": false
+        }
+      ]
+    }
+  ]
+}
